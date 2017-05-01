@@ -12,3 +12,7 @@ nav{
 .div-overlay{
   cursor: pointer;
 }
+
+.div-main{
+  margin-left: 250px;
+}
